@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Chicken Chronicles</string>
+    <string name="chicken">Chicken</string>
+    <string name="worm">Worm</string>
+    <string name="coin">Coin</string>
+    <string name="energy">Energy</string>
+    <string name="thirst">Thirst</string>
+    <string name="hunger">Hunger</string>
+    <string name="health">Health</string>
+    <string name="happiness">Happiness</string>
+    <string name="basket">Basket</string>
+    <string name="info">Info</string>
+    <string name="help">Help</string>
+    <string name="mini_game">Mini Game</string>
+    <string name="quiz">Quiz</string>
+    <string name="time">Time</string>
+    <string name="refill">REFILL</string>
+    <string name="sell">SELL</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="back">Back</string>
+    <string name="egg">Egg</string>
+    <string name="golden_egg">Golden Egg</string>
+    <string name="health_upgrade_text">Health is restored automatically if other indicators are normal.</string>
+    <string name="happiness_upgrade_text">Pet the chicken to increase happiness</string>
+</resources>
